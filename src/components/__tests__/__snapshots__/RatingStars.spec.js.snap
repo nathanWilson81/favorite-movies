@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input should match a snapshot 1`] = `
+<div
+  className="sc-bxivhb cDFCAd"
+>
+  <span
+    className="sc-htpNat ifrpLP"
+    onClick={[Function]}
+  >
+    <i
+      className="material-icons md-24 md-dark "
+      icon="grade"
+      style={
+        Object {
+          "color": "",
+          "fontSize": "md-24",
+        }
+      }
+    />
+  </span>
+  <span
+    className="sc-htpNat ifrpLP"
+    onClick={[Function]}
+  >
+    <i
+      className="material-icons md-24 md-dark "
+      icon="grade"
+      style={
+        Object {
+          "color": "",
+          "fontSize": "md-24",
+        }
+      }
+    />
+  </span>
+  <span
+    className="sc-htpNat iQRUnV"
+    onClick={[Function]}
+  >
+    <i
+      className="material-icons md-24 md-dark "
+      icon="grade"
+      style={
+        Object {
+          "color": "",
+          "fontSize": "md-24",
+        }
+      }
+    />
+  </span>
+  <span
+    className="sc-htpNat iQRUnV"
+    onClick={[Function]}
+  >
+    <i
+      className="material-icons md-24 md-dark "
+      icon="grade"
+      style={
+        Object {
+          "color": "",
+          "fontSize": "md-24",
+        }
+      }
+    />
+  </span>
+  <span
+    className="sc-htpNat iQRUnV"
+    onClick={[Function]}
+  >
+    <i
+      className="material-icons md-24 md-dark "
+      icon="grade"
+      style={
+        Object {
+          "color": "",
+          "fontSize": "md-24",
+        }
+      }
+    />
+  </span>
+</div>
+`;

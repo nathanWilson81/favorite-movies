@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should match a snapshot 1`] = `
+<div
+  className="sc-dnqmqq kLNolu"
+>
+  <div
+    className="sc-iwsKbI bOmJaN"
+  >
+    <h1>
+      My Favorite Movies
+    </h1>
+    <div
+      className="sc-gqjmRU esGRdK"
+    >
+      <h3
+        className="sc-VigVT htzFyS"
+      >
+        Sort By Genre: 
+      </h3>
+      <select
+        className="sc-bdVaJa fqmIub"
+        onChange={[Function]}
+        value="All"
+      >
+        <option
+          value="All"
+        >
+          All
+        </option>
+        <option
+          value="Action"
+        >
+          Action
+        </option>
+        <option
+          value="Adventure"
+        >
+          Adventure
+        </option>
+        <option
+          value="Animation"
+        >
+          Animation
+        </option>
+        <option
+          value="Childrens"
+        >
+          Childrens
+        </option>
+        <option
+          value="Comedy"
+        >
+          Comedy
+        </option>
+        <option
+          value="Crime"
+        >
+          Crime
+        </option>
+        <option
+          value="Documentary"
+        >
+          Documentary
+        </option>
+        <option
+          value="Drama"
+        >
+          Drama
+        </option>
+        <option
+          value="Horror"
+        >
+          Horror
+        </option>
+        <option
+          value="Family"
+        >
+          Family
+        </option>
+        <option
+          value="Fantasy"
+        >
+          Fantasy
+        </option>
+        <option
+          value="Historical"
+        >
+          Historical
+        </option>
+        <option
+          value="Medical"
+        >
+          Medical
+        </option>
+        <option
+          value="Musical"
+        >
+          Musical
+        </option>
+        <option
+          value="Paranormal"
+        >
+          Paranormal
+        </option>
+        <option
+          value="Romance"
+        >
+          Romance
+        </option>
+        <option
+          value="Sport"
+        >
+          Sport
+        </option>
+        <option
+          value="Science fiction"
+        >
+          Science fiction
+        </option>
+        <option
+          value="Thriller"
+        >
+          Thriller
+        </option>
+        <option
+          value="War"
+        >
+          War
+        </option>
+        <option
+          value="Western"
+        >
+          Western
+        </option>
+      </select>
+    </div>
+    <button
+      className="sc-jTzLTM eoEWZr"
+      onClick={[Function]}
+    >
+      Add New Movie
+    </button>
+  </div>
+  <div
+    className="sc-gZMcBi czVSTk"
+  />
+</div>
+`;

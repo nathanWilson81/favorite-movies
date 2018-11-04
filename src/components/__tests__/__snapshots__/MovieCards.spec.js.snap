@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieCards should match a snapshot 1`] = `
+<div
+  className="sc-ifAKCX iIpkDb"
+>
+  <span
+    className="sc-EHOje cHZhcc"
+    onClick={[Function]}
+  >
+    <i
+      className="material-icons md-24 md-dark "
+      icon="delete"
+      style={
+        Object {
+          "color": "",
+          "fontSize": "md-24",
+        }
+      }
+    />
+  </span>
+  <input
+    className="sc-bwzfXH lidPRz"
+    onChange={[Function]}
+    placeholder="Enter your movie's name"
+    type="text"
+    value="Bar"
+  />
+  <select
+    className="sc-bdVaJa fqmIub"
+    onChange={[Function]}
+    value="FooBar"
+  >
+    <option
+      value="Foo"
+    >
+      Foo
+    </option>
+  </select>
+  <div
+    className="sc-bxivhb cDFCAd"
+  >
+    <span
+      className="sc-htpNat iQRUnV"
+      onClick={[Function]}
+    >
+      <i
+        className="material-icons md-24 md-dark "
+        icon="grade"
+        style={
+          Object {
+            "color": "",
+            "fontSize": "md-24",
+          }
+        }
+      />
+    </span>
+    <span
+      className="sc-htpNat iQRUnV"
+      onClick={[Function]}
+    >
+      <i
+        className="material-icons md-24 md-dark "
+        icon="grade"
+        style={
+          Object {
+            "color": "",
+            "fontSize": "md-24",
+          }
+        }
+      />
+    </span>
+    <span
+      className="sc-htpNat iQRUnV"
+      onClick={[Function]}
+    >
+      <i
+        className="material-icons md-24 md-dark "
+        icon="grade"
+        style={
+          Object {
+            "color": "",
+            "fontSize": "md-24",
+          }
+        }
+      />
+    </span>
+    <span
+      className="sc-htpNat iQRUnV"
+      onClick={[Function]}
+    >
+      <i
+        className="material-icons md-24 md-dark "
+        icon="grade"
+        style={
+          Object {
+            "color": "",
+            "fontSize": "md-24",
+          }
+        }
+      />
+    </span>
+    <span
+      className="sc-htpNat iQRUnV"
+      onClick={[Function]}
+    >
+      <i
+        className="material-icons md-24 md-dark "
+        icon="grade"
+        style={
+          Object {
+            "color": "",
+            "fontSize": "md-24",
+          }
+        }
+      />
+    </span>
+  </div>
+  <span
+    className="sc-EHOje cHZhcc"
+    onClick={[Function]}
+  >
+    <i
+      className="material-icons md-24 md-dark "
+      icon="info"
+      style={
+        Object {
+          "color": "",
+          "fontSize": "md-24",
+        }
+      }
+    />
+  </span>
+</div>
+`;

@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AdditionalInfoModal should match a snapshot 1`] = `
+<div
+  className="sc-bZQynM fdkYRz"
+  onClick={[Function]}
+>
+  <div
+    className="sc-gzVnrw epPBlV"
+  >
+    <h1>
+      Additional Information
+    </h1>
+    <textarea
+      className="sc-htoDjs jSecgI"
+      onChange={[Function]}
+      placeholder="Ex. Pros / Cons, Director, IMDB link"
+      rows={10}
+      value=""
+    />
+  </div>
+</div>
+`;
+
+exports[`AdditionalInfoModal should match a snapshot when isOpen is false 1`] = `null`;
+
+exports[`AdditionalInfoModal should match a snapshot when there is data 1`] = `
+<div
+  className="sc-bZQynM fdkYRz"
+  onClick={[Function]}
+>
+  <div
+    className="sc-gzVnrw epPBlV"
+  >
+    <h1>
+      Additional Information
+    </h1>
+    <textarea
+      className="sc-htoDjs jSecgI"
+      onChange={[Function]}
+      placeholder="Ex. Pros / Cons, Director, IMDB link"
+      rows={10}
+      value="This is some data"
+    />
+  </div>
+</div>
+`;

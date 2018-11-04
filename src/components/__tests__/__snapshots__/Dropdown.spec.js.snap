@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown should match a snapshot 1`] = `
+<select
+  className="sc-bdVaJa fqmIub"
+  onChange={[MockFunction]}
+  value="test"
+>
+  <option
+    value="test"
+  >
+    test
+  </option>
+</select>
+`;
